@@ -6,7 +6,7 @@ ApplicationContext – Spring's container for managing beans.
 
 XML Configuration (spring.xml) – Used to define beans and their dependencies.
 
-Beans and Interfaces – You created Doctor and Staff as part of a modular design.
+Beans and Interfaces –  Created Doctor and Staff as part of a modular design.
 
 Dependency Injection via Constructor – Injected values (like qualification) into the bean.
 
